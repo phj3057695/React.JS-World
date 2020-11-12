@@ -6,7 +6,8 @@ export class Home extends Component {
   render () {
     return (
       <div>
-        Hello. Welcome to the React.JS world with Dot.Net
+        Hello. Welcome to the React.JS world with Dot.Net<br>
+        
       </div>
     );
   }
